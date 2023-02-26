@@ -43,8 +43,6 @@ npm run dev
 npm run dev:watch
 ```
 
-## TODO
-下記も導入したい
 
 ## ts-node-dev パッケージ
 毎回変更検知されると困る場合は、下記のパッケージをアンインストールする

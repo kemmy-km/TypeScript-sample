@@ -7,5 +7,5 @@ const message: string = "hello, TS!"
 console.log(message)
 
 // const target = document.getElementById('target') as HTMLInputElement
-const target = document.querySelector("#target") as HTMLInputElement
-target.textContent = message
+// const target = document.querySelector("#target") as HTMLInputElement
+// target.textContent = message
